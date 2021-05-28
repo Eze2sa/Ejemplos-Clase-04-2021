@@ -1,0 +1,3 @@
+[{"Nombre":"Ezequiel","Apellido":"dos Santos","Telefono":245621895},
+{"Nombre":"Juan","Apellido":"Morra","Telefono":1265489521},
+{"Nombre":"Marce","Apellido":"Lafaille","Telefono":1234}]
